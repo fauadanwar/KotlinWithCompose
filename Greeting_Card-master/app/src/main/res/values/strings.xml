@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="happy_birthday_text">Happy Birthday Fouad!</string>
+    <string name="from_google">-From Google</string>
+</resources>
